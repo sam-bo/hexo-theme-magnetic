@@ -1,9 +1,8 @@
 # Header
 menu:
   Home: /
-  Works: /works
-  Material: /material
-  Photographer: /photographer
+  Material: https://material.winterchen.com
+  Photographer: https://photograper.winterchen.com
   Archives: /archives
 
 # Default post title
